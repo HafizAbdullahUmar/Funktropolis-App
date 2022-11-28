@@ -1,0 +1,130 @@
+/* #NFT-card {
+  position: relative;
+  width: 325px;
+  height: 445px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: inset 0 -11px 38px 0 #14141f;
+  border-radius: 20px;
+}
+#NFT-card .NFT-img {
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+
+#NFT-card .card-content {
+  z-index: 2;
+  position: relative;
+  width: 100%;
+  background: #894a63; 
+  background: -moz-linear-gradient(
+    -45deg,
+    #894a63 0%,
+    #0f1d24 76%,
+    #0f1d24 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    #894a63 0%,
+    #0f1d24 76%,
+    #0f1d24 100%
+  ); 
+  background: linear-gradient(
+    135deg,
+    #894a63 0%,
+    #0f1d24 76%,
+    #0f1d24 100%
+  ); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#894a63', endColorstr='#0f1d24',GradientType=1 ); 
+}
+#NFT-card p {
+  margin: 0;
+}
+#NFT-card .heading1 {
+  color: #ebebeb;
+  font-size: 12px;
+  opacity: 0.5;
+}
+#NFT-card .heading2 {
+  margin-top: -4px;
+  font-size: 16px;
+}
+#NFT-card .heading3 {
+  font-size: 21px;
+  opacity: 0.6;
+  margin-top: -4px;
+}
+#NFT-card .reload-icon {
+  opacity: 0.6;
+}
+.heading5 {
+  margin: 10px 0 -8px 0;
+  color: #8a8aa0;
+  font-size: 18px;
+}
+#NFT-card .heading6 {
+  font-size: 27px;
+}
+#NFT-card .heading7 {
+  font-size: 12px;
+  color: #8a8aa0;
+  margin: -5px 0 10px 0;
+}
+#NFT-card .artist-icon {
+  position: absolute;
+  top: -55px;
+  left: -10px;
+}
+#NFT-card .likes {
+  position: absolute;
+  top: 10%;
+  right: -2px;
+  padding: 3px 10px;
+  border-radius: 8px 0 0 8px;
+  z-index: 2;
+  box-shadow: inset 0 0 5px 0 gray;
+}
+#NFT-card .duration {
+  position: absolute;
+  top: 50%;
+  right: -2px;
+  padding: 3px 10px;
+  border-radius: 8px 0 0 8px;
+  z-index: 2;
+  box-shadow: inset 0 0 15px 2px darkgray;
+}
+
+.swiper-button-prev {
+  padding: 40px;
+  left: 10px !important;
+  border-radius: 50%;
+  box-shadow: inset 0 0 15px 1px white;
+}
+.swiper-button-next {
+  padding: 40px;
+  right: 0 !important;
+  border-radius: 50%;
+  box-shadow: inset 0 0 15px 1px white;
+}
+.swiper-button-prev::after,
+.swiper-button-prev::before {
+  margin-left: -7px;
+}
+.swiper-button-next::after,
+.swiper-button-next::before {
+  margin-right: -7px;
+}
+#slim .swiper-slide {
+  margin: 0 0rem 0 2rem;
+  width: 325px !important;
+}
+@media (max-width: 500px) {
+}
+ */

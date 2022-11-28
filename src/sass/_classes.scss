@@ -1,0 +1,83 @@
+.p20 {
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+}
+.funktropolis-btn {
+  padding: 9px 20px;
+  border: none;
+  border-radius: 50rem;
+  width: 12rem;
+
+  color: white;
+  box-shadow: inset 0 0 17px 0 #5bdeff37;
+  background: #77137e;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#77137e+0,77137e+49,a557a5+100 */
+  background: #77137e; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    #77137e 0%,
+    #77137e 49%,
+    #a557a5 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    #77137e 0%,
+    #77137e 49%,
+    #a557a5 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    #77137e 0%,
+    #77137e 49%,
+    #a557a5 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#77137e', endColorstr='#a557a5',GradientType=1 ); /* IE6-9 */
+}
+.funktropolis-btn:hover {
+  box-shadow: inset 0 0 10px 0 #a48aa4, 0 0 5px 1px rgba(255, 255, 255, 0.298);
+}
+.bid-btn {
+  padding: 9px 20px;
+  border: none;
+  color: white;
+  border-radius: 12px;
+  width: 8rem;
+  background-color: transparent;
+  box-shadow: inset 0 0 29px 4px #b893b8;
+  font-size: 10px;
+}
+.bid-btn:hover {
+  box-shadow: inset 0 0 29px 4px #b893b8, 0 0 5px 1px white;
+}
+.funktropolis-btn-white {
+  border: none;
+  background: transparent;
+  color: white;
+  box-shadow: inset 0 0 20px 0.5px rgb(138, 129, 158);
+  padding: 10px 50px;
+  width: 12rem;
+  border-radius: 50rem;
+}
+.funktropolis-btn-white:hover {
+  box-shadow: inset 0 0 20px 0.5px rgb(138, 129, 158), 0 0 10px 1px white;
+}
+@media (min-width: 576px) {
+  .carousel-inner {
+    display: flex;
+  }
+  .carousel-item {
+    display: block;
+    margin-right: 0;
+    flex: 0 0 calc(100% / 3);
+  }
+}

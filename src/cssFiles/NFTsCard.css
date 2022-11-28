@@ -1,0 +1,80 @@
+/* #NFT-card-1 {
+  position: relative;
+  max-width: 506px;
+  height: 372px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  border-radius: 20px;
+  margin: auto;
+}
+#NFT-card-1 .NFT-img {
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+#NFT-card-1 .likes {
+  position: absolute;
+  top: 10%;
+  right: -2px;
+  padding: 3px 10px;
+  border-radius: 8px 0 0 8px;
+  z-index: 2;
+  box-shadow: inset 0 0 5px 0 gray;
+}
+
+#NFT-card-1 p {
+  margin: 0;
+}
+
+.swiper-button-prev {
+  padding: 40px;
+  left: 10px !important;
+  border-radius: 50%;
+  box-shadow: inset 0 0 15px 1px white;
+}
+.swiper-button-next {
+  padding: 40px;
+  right: 0 !important;
+  border-radius: 50%;
+  box-shadow: inset 0 0 15px 1px white;
+}
+.swiper-button-prev::after,
+.swiper-button-prev::before {
+  margin-left: -7px;
+}
+.swiper-button-next::after,
+.swiper-button-next::before {
+  margin-right: -7px;
+}
+#NFT-card-1 .swiper-slide {
+  margin: 0 0rem 0 2rem;
+  width: 500px;
+}
+#NFT-card-1 .profile-img-div {
+  position: absolute;
+  z-index: 3;
+  top: -3.1rem;
+  left: 2rem;
+}
+#NFT-card-1 .credits {
+  margin-top: -0.4rem;
+}
+#NFT-card-1 .credited {
+  color: #ebebeb;
+  opacity: 0.5;
+  font-size: 12px;
+}
+#NFT-card-1 .check {
+  position: absolute;
+  top: 4rem;
+  left: 4.4rem;
+}
+#hot-collection {
+  margin-top: 10rem;
+}
+ */

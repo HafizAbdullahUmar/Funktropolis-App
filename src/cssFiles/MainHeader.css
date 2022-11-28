@@ -1,0 +1,102 @@
+/* #main-header .BackgroundHeaderLight1 {
+  position: absolute;
+  top: 80%;
+  left: 30%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+#main-header .BackgroundHeaderLight2 {
+  position: absolute;
+  top: 50rem;
+  left: 100rem;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+#main-header .BackgroundHeaderLight3 {
+  position: absolute;
+  top: 90rem;
+  left: 110rem;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+.BackgroundHotCollectionLight1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+#main-header #main-header-div-2 .transparent-div {
+  border-radius: 10px;
+  padding: 3rem 0 3rem 2rem;
+  width: 70%;
+  position: relative;
+  max-width: 425px;
+}
+
+#main-header #main-header-div-2 .transparent-wrap {
+  position: absolute;
+  background: linear-gradient(to top, #24153322, #241533f0);
+  box-shadow: 0 0 5px 1px rgba(255, 255, 255, 0.342);
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 10px;
+  opacity: 0.5;
+  z-index: -1;
+}
+#main-header #main-header-div-2 .discover-text {
+  font-size: 29px;
+  width: 250px;
+}
+#main-header #main-header-div-2 .shapes {
+  position: absolute;
+}
+#main-header #main-header-div-2 .shape-copy-1 {
+  position: absolute;
+  z-index: -2;
+  width: 50%;
+  top: -5rem;
+  left: -5rem;
+}
+#main-header #main-header-div-2 .shape-copy-2 {
+  position: absolute;
+  z-index: 2;
+  width: 50%;
+  bottom: -5rem;
+  right: -5rem;
+}
+#main-header #main-header-div-2 .shape-copy-3 {
+  position: absolute;
+  z-index: -2;
+  width: 50%;
+  top: -5rem;
+  right: -5rem;
+}
+@media (max-width: 992px) {
+  #main-header .BackgroundHeaderLight1 {
+    top: 67%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+@media (max-width: 600px) {
+  #main-header #main-header-div-2 .BackgroundHeaderLight1 {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  #main-header #main-header-div-2 .transparent-div {
+    width: 80%;
+  }
+  #main-header #main-header-div-2 .transparent-div .shapes {
+    display: none;
+  }
+}
+@media (max-width: 400px) {
+  #main-header #main-header-div-2 .transparent-div {
+    width: 95%;
+  }
+}
+ */
